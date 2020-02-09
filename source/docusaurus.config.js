@@ -84,7 +84,7 @@ module.exports = {
         href: 'https://opensource.facebook.com/',
       },
       // Please do not remove the credits, help to publicize Docusaurus :)
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Suresh Kumar Mukhiya. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -94,7 +94,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/sureshhardiya/sureshhardiya.github.io/edit/master/source/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
