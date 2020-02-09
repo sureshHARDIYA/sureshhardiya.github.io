@@ -7,7 +7,11 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mdx.md",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "This is Document Number 3",
-    "permalink": "/docs/doc3"
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/doc1"
   }
 }

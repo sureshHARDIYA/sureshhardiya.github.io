@@ -3,7 +3,7 @@
     "someSidebar": [
       {
         "type": "category",
-        "label": "Docusaurus",
+        "label": "Problem Domain",
         "items": [
           {
             "type": "link",
@@ -24,12 +24,83 @@
       },
       {
         "type": "category",
-        "label": "Features",
+        "label": "Methodologies",
         "items": [
           {
             "type": "link",
             "label": "Powered by MDX",
             "href": "/docs/mdx"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Interoperability",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/mdx"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "DPF",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/mdx"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Contribution",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/mdx"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Publication",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/mdx"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Prototype",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/mdx"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Future Direction",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/docs/mdx"
+          },
+          {
+            "type": "link",
+            "label": "Style Guide",
+            "href": "/docs/doc1"
           }
         ]
       }
