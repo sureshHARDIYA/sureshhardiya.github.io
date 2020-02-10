@@ -52,11 +52,11 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/users/1850555/suresh-kumar-mukhiya',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Website',
+              href: 'https://sureshhardiya.github.io/',
             },
           ],
         },
@@ -69,11 +69,11 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/sureshHARDIYA/sureshhardiya.github.io',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/dr_code_skm',
             },
           ],
         },
